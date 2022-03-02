@@ -5,7 +5,7 @@
 
 
 <div align="center">
-  <img src="img/logo.png" width="600"/>
+  <img src="img/logo.png"/>
   <div>&nbsp;</div>
   <div align="center">
   <b><a href="https://preminstrel.github.io/big-data-2022-project/"><font size="5">Project website</font></a></b>
