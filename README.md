@@ -18,5 +18,3 @@ Creation of the repo
 
 Creation of the project website
 
-zxc
-
