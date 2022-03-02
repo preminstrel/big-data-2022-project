@@ -2,4 +2,7 @@
 
 
 ## Log
-***2022/3/2*** Creation of the repo
+***2022/3/2*** 
+
+Creation of the repo
+Creation of the project website
