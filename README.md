@@ -1,11 +1,5 @@
-
-
-
-
-
-
 <div align="center">
-  <img src="img/logo.png"/>
+  <img src="img/logo_new.png"/>
   <div>&nbsp;</div>
   <div align="center">
   <b><a href="https://preminstrel.github.io/big-data-2022-project/"><font size="7">Project website</font></a></b>
